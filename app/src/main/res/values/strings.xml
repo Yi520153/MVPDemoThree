@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MVPDemoThree</string>
+
+    <string name="navigation_news">新闻</string>
+    <string name="navigation_images">图片</string>
+    <string name="navigation_weather">天气</string>
+    <string name="navigation_about">关于</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="name">Lcl</string>
+
+    <string name="top">头条</string>
+    <string name="nba">NBA</string>
+    <string name="cars">汽车</string>
+    <string name="jokes">笑话</string>
+
+    <string name="load_fail">加载数据失败!</string>
+
+    <string name="navigation_images_view">图片界面</string>
+    <string name="navigation_weather_view">天气界面</string>
+    <string name="navigation_about_view">关于界面</string>
+</resources>
